@@ -23,3 +23,17 @@ public class Task2 {
         return hiddenPassword;
     }
 }
+ /*
+        Task 2 : Hide Passwords
+
+			        Given an arraylist of passwords (String). Hide each password as a star (*) and show the hidden password
+
+					Ex:
+
+					Input:
+					{"one", "hi", "hold"}
+
+					Output:
+					[ ***, **, **** ]
+         */
+

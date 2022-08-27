@@ -34,3 +34,16 @@ public class Task3 {
 
     // put the sum inside the integer list
 }
+/*
+        Task 3 : String numbers to sum
+
+					Given an ArrayList of numbers in String format, add each digit of each element and store into a different ArrayList.
+
+					Ex:
+
+					Input:
+					“123”, “34”, “513”
+
+					Output:
+					[ 6, 7, 9 ]
+         */
